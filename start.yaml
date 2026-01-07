@@ -1,0 +1,4 @@
+module-name1:
+  screen-name1:
+    comp-name1: "Collapsed"
+    comp-name2: "Expanded"
