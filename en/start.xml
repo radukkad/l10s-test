@@ -1,1 +1,5 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+<string name="moduleA__cat1__app__header">Application header1</string>
+<string name="moduleA__cat2__app__header">Application header2</string>
+</resources>
